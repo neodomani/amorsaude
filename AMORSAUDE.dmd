@@ -1,0 +1,16 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="AMORSAUDE" id="59C5C56D-86B4-22B9-854E-E547A0DCD7C0" version="3.5">
+<createdBy>andregutierres</createdBy>
+<createdTime>2022-08-22 15:05:17 UTC</createdTime>
+<ownerDesignName>AMORSAUDE</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>59C5C56D-86B4-22B9-854E-E547A0DCD7C0</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="4A18C279-239C-6940-66CB-A16986369339">
+<designStoragePath>/AMEI_HOM</designStoragePath>
+</designDescr>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="3B7EB641-FEDA-286B-BD45-4EC291736EFA">
+<designStoragePath>/COMUNICARE.SQL</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
